@@ -1,0 +1,12 @@
+html body {
+    background-color: lightcoral;
+    text-align: center;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-family: 'DM Serif Text', 'Times New Roman', Times, serif;
+}
