@@ -6,7 +6,7 @@ html {
     transform: translate(-50%, -50%);
 }
 
-.bg {
+.bg { 
     background-color: #fa4545;
     transform: rotate(-7deg);
     height: 200px;
